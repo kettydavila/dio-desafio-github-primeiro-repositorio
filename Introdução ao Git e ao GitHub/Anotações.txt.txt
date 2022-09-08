@@ -1,0 +1,8 @@
+Comando básicos do Git:
+- git init
+- git status [checa se há alguma alteração]
+- git add [arquivo ou use '*' e prepare todos arquivos para commitar]
+- git commit -m "comentário"
+- git clone [adicione o link de downloand do repositório]
+- git push origin master [manda os arquivos do local para o remoto]
+- git pull origin master [baixa os arquivos do remoto para o local]
